@@ -1,24 +1,54 @@
-Music Streaming Website
+# 🎵 Music Streaming Website
 
-A modern and responsive music streaming web application developed using HTML, CSS, and JavaScript. The project provides an intuitive interface for browsing and playing music while demonstrating core front-end web development concepts.
+A modern and responsive music streaming web application built using **HTML5, CSS3, and JavaScript (ES6)**. The project delivers a clean user interface with seamless music playback controls and an engaging user experience.
+---
+## ✨ Features
+- 🎧 Play, Pause, Next & Previous controls
+- 📃 Dynamic playlist display
+- 🎵 Interactive music player
+- 📱 Fully responsive design
+- ⚡ Fast and lightweight
+- 🎨 Modern and intuitive UI
+---
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript (ES6)
+---
+## 📸 Output
 
-Features
-Music playback controls (Play, Pause, Next, Previous)
-Responsive and user-friendly interface
-Dynamic playlist management
-Clean and organized code structure
+### Home Page
+![Home Page](indexpic.png)
 
-Tech Stack
-HTML5
-CSS3
-JavaScript (ES6)
+### Explore page
+![Music Player](explorepic.png)
 
-Installation
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-Open index.html in your preferred web browser to run the application locally.
+### Playlist
+![Playlist](playlist.png)
 
-License
-This project is intended for educational and personal learning purposes.
+### Contact Us Page
+![Contact Us](contactpic.png)
 
+---
+## 📂 Project Structure
 
+```
+music-streaming-website/
+│── assets/
+│── css/
+│── images/
+│── js/
+│── songs/
+│── index.html
+└── README.md
+```
+
+## 📄 License
+
+This project is developed for educational and learning purposes.
+
+---
+
+## 👨‍💻 Author
+
+**Kokil Sharma**
