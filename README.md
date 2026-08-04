@@ -18,16 +18,16 @@ A modern and responsive music streaming web application built using **HTML5, CSS
 ## 📸 Output
 
 ### Home Page
-![Home Page](screenshots/indexpic.png)
+![Home Page](indexpic.png)
 
 ### Explore Page
-![Explore Page](screenshots/explorepic.png)
+![Explore Page](explorepic.png)
 
 ### Playlist
-![Playlist](screenshots/playlist.png)
+![Playlist](playlist.png)
 
 ### Contact Us Page
-![Contact Us](screenshots/contactpic.png)
+![Contact Us](contactpic.png)
 ---
 ## 📂 Project Structure
 
