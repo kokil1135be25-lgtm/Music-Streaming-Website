@@ -24,7 +24,7 @@ A modern and responsive music streaming web application built using **HTML5, CSS
 ![Explore Page](explorepic.png)
 
 ### Playlist
-![Playlist](playlist.png)
+![Playlist](playlistpic.png)
 
 ### Contact Us Page
 ![Contact Us](contactpic.png)
